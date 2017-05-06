@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/24_Minutes">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheSimpsons(season18)Episodes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2007TelevisionEpisodes" />
+    <rdfs:label xml:lang="en">24 Minutes</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;24 Minutes&quot; is the twenty-first episode of The Simpsons&#39; eighteenth season and was broadcast on May 20, 2007 as part of the one hour season finale, alongside the episode &quot;You Kent Always Say What You Want&quot;. It was originally promoted as being the 400th episode, but was broadcast as the 399th. It was written by Ian Maxtone-Graham and Billy Kimball. It was Kimball&#39;s first writing credit.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/24_Minutes" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gycln" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:24_(TV_series)" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Crossover_fiction" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2007_television_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Fictional_crossovers" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Crossover_animation" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_18)_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Annie_Award_winners" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Ian_Maxtone-Graham" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Billy_Kimball" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpprop:imageCaption xml:lang="en">Promotional artwork for the episode featuring Bart, Jack Bauer, Chloe O&#39;Brian and Lisa.</dbpprop:imageCaption>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Raymond_S._Persi" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-05-20</dbpprop:airdate>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-05-20</dbpprop:airdate>
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">399</dbpprop:episodeNo>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Al_Jean" />
+    <dbpprop:episodeName rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</dbpprop:episodeName>
+    <dbpprop:guestStar xml:lang="en">Kiefer Sutherland as Jack Bauer</dbpprop:guestStar>
+    <dbpprop:guestStar xml:lang="en">Mary Lynn Rajskub as Chloe O&#39;Brian</dbpprop:guestStar>
+    <dbpedia-owl:abstract xml:lang="en">&quot;24 Minutes&quot; is the twenty-first episode of The Simpsons&#39; eighteenth season and was broadcast on May 20, 2007 as part of the one hour season finale, alongside the episode &quot;You Kent Always Say What You Want&quot;. It was originally promoted as being the 400th episode, but was broadcast as the 399th. It was written by Ian Maxtone-Graham and Billy Kimball. It was Kimball&#39;s first writing credit. The episode is a spoof of the Fox television drama 24, and sees Principal Skinner&#39;s new Counter Truancy Unit (CTU), led by Lisa Simpson, attempting to prevent a stink bomb being released at Springfield Elementary School. Guest stars include Kiefer Sutherland and Mary Lynn Rajskub as their characters from 24, Jack Bauer and Chloe O&#39;Brian. It won the 2008 Annie Award.</dbpedia-owl:abstract>
+    <dbpprop:prodCode xml:lang="en">JABF14</dbpprop:prodCode>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/24_Minutes" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-episode-noun-3" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/24_Minutes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/24_minutes">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/24_Minutes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Counter_Truancy_Unit">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/24_Minutes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/24_Minutes">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/24_Minutes" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/24_Minutes">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/24_Minutes" />
+  </rdf:Description>
+</rdf:RDF>

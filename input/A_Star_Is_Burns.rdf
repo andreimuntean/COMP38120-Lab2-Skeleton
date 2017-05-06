@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_Is_Burns">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1995TelevisionEpisodes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheSimpsons(season6)Episodes" />
+    <rdfs:label xml:lang="en">A Star Is Burns</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;A Star Is Burns&quot; is the eighteenth episode of The Simpsons&#39; sixth season. It first aired on the Fox network in the United States on March 5, 1995. In the episode, Springfield decides to hold a film festival, and famed critic Jay Sherman is invited to be a judge. Homer, feeling that Marge does not respect him, asks that he be put on the jury panel and ends up voting for the stupidest movie. The story involves a crossover with the short-lived animated series The Critic.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06dy1v" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1995_television_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Crossover_animation" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_6)_episodes" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Ken_Keeler" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Quote_box" />
+    <dbpprop:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</dbpprop:width>
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thesimpsons.com/#/recaps/season-6_episode-18" />
+    <dbpprop:quote xml:lang="en">&quot;The two reasons I am opposed to this crossover is that I don&#39;t want any credit or blame for The Critic and I feel this  violates the Simpsons&#39; universe, The Critic has nothing to do with the Simpsons&#39; world. ... I&#39;m not criticizing The Critic. But cartoons have their own style and I really have nothing to say about The Critic. Through all the years of The Simpsons we have been careful about maintaining their uniqueness. Sure, there have been other cartoons who visit, but it&#39;s usually just one scene, often for a sight gag.&quot;</dbpprop:quote>
+    <dbpprop:source xml:lang="en">—Matt Groening</dbpprop:source>
+    <dbpprop:imageCaption xml:lang="en">A shot from Barney&#39;s film, Pukahontas</dbpprop:imageCaption>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Susie_Dietter" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-03-05</dbpprop:airdate>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Al_Jean_by_Gage_Skidmore.jpg/200px-Al_Jean_by_Gage_Skidmore.jpg" />
+    <dbpprop:commentary xml:lang="en">Jon Lovitz</dbpprop:commentary>
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Susie_Dietter" />
+    <dbpprop:commentary xml:lang="en">Al Jean</dbpprop:commentary>
+    <dbpprop:commentary xml:lang="en">Mike Reiss</dbpprop:commentary>
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Ken_Keeler" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Dan_Castellaneta" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/James_L._Brooks" />
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</dbpprop:episodeNo>
+    <dbpprop:couchGag xml:lang="en">The family’s heights are reversed; Maggie is now the largest while Homer is the smallest.</dbpprop:couchGag>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Al_Jean" />
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Mike_Reiss" />
+    <dbpprop:episodeName xml:lang="en">A Star Is Burns</dbpprop:episodeName>
+    <dbpprop:guestStar xml:lang="en">Phil Hartman as Charlton Heston</dbpprop:guestStar>
+    <dbpprop:guestStar xml:lang="en">Jon Lovitz as Jay Sherman</dbpprop:guestStar>
+    <dbpprop:guestStar xml:lang="en">Maurice LaMarche as George C. Scott</dbpprop:guestStar>
+    <dbpedia-owl:abstract xml:lang="en">&quot;A Star Is Burns&quot; is the eighteenth episode of The Simpsons&#39; sixth season. It first aired on the Fox network in the United States on March 5, 1995. In the episode, Springfield decides to hold a film festival, and famed critic Jay Sherman is invited to be a judge. Homer, feeling that Marge does not respect him, asks that he be put on the jury panel and ends up voting for the stupidest movie. The story involves a crossover with the short-lived animated series The Critic. Jay Sherman was the main character on the show. The Critic was created by Al Jean and Mike Reiss, who had previously written for The Simpsons but left following the fourth season, and produced by James L. Brooks, who was also a producer for The Simpsons. The show had premiered on the American Broadcasting Company (ABC) network in January 1994 but was canceled despite positive critical reception. The series was switched over to Fox, and put in the timeslot directly after The Simpsons. Brooks pitched a crossover episode as a way to promote The Critic and decided that a film festival would be a good way to introduce Sherman. Matt Groening, creator of The Simpsons, reacted negatively when he heard about this episode, feeling that it was just an advertisement for The Critic, and that people would incorrectly associate the show with him. When he was unsuccessful in getting the program pulled, he had his name removed from the credits and went public with his concerns, openly criticizing James L. Brooks and saying the episode &quot;violates the Simpsons&#39; universe. &quot; In response, Brooks said &quot;I am furious with Matt, [... ... ] he&#39;s allowed his opinion, but airing this publicly in the press is going too far. [... ... ] his behavior right now is rotten. &quot; The episode was directed by Susie Dietter and was the first episode to be written by Ken Keeler. Jon Lovitz, the star of The Critic, guest stars as Jay Sherman, while Maurice LaMarche (who was also a regular on The Critic) has a few minor roles. Sherman later became an infrequently recurring character on The Simpsons. The episode received mixed reviews from critics, many of whom felt the crossover was out of place on the show although Barney&#39;s film festival entry was well received.</dbpedia-owl:abstract>
+    <dbpprop:prodCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</dbpprop:prodCode>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Star_Is_Burns" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-episode-noun-3" />
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/d/d7/Al_Jean_by_Gage_Skidmore.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Simpsons_%28season_6%29">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boo_Urns">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Se%C3%B1or_Spielbergo">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Senor_Spielbergo">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boourns">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_is_Burns">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boo-urns">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boo-Urns">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boo_urns">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Springfield_film_festival">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Senior_Spielbergo">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Man_Getting_Hit_By_Football">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/I_was_saying_Boo-urns">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/A_Star_Is_Burns">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/A_Star_Is_Burns">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Star_Is_Burns" />
+  </rdf:Description>
+</rdf:RDF>

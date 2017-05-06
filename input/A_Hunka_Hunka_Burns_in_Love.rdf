@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Hunka_Hunka_Burns_in_Love">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheSimpsons(season13)Episodes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2001TelevisionEpisodes" />
+    <rdfs:label xml:lang="en">A Hunka Hunka Burns in Love</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;A Hunka Hunka Burns in Love&quot; is the fourth episode of The Simpsons’ thirteenth season. The episode first aired on the Fox network on December 2, 2001. In the episode, Mr Burns falls in love with Gloria, a woman who is much younger than he is and who turns out to be Snake Jailbird&#39;s ex-girlfriend. The episode was written by John Swartzwelder, directed by Lance Kramer and dedicated to the memory of George Harrison.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Hunka_Hunka_Burns_in_Love" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06v5rp" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2001_television_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_13)_episodes" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/John_Swartzwelder" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thesimpsons.com/#/recaps/season-13_episode-4" />
+    <dbpprop:imageCaption xml:lang="en">Gloria,  played by guest star Julia Louis-Dreyfus, on a ferris wheel with Mr Burns . In order to make Burns look happy, the animators had to change Burns&#39; basic model; note that his eyebrows are not visible in this scene.</dbpprop:imageCaption>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Lance_Kramer" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2001-12-02</dbpprop:airdate>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/John_Swartzwelder_Brighter_Sharper.jpg/200px-John_Swartzwelder_Brighter_Sharper.jpg" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Lance_Kramer" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Matt_Selman" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Mike_Scully" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Ian_Maxtone-Graham" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Al_Jean" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Tom_Gammill" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Max_Pross" />
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">273</dbpprop:episodeNo>
+    <dbpprop:couchGag xml:lang="en">The Simpsons  tunnel their way to the couch.</dbpprop:couchGag>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Mike_Scully" />
+    <dbpprop:episodeName xml:lang="en">A Hunka Hunka Burns in Love</dbpprop:episodeName>
+    <dbpprop:guestStar xml:lang="en">George Takei as the waiter</dbpprop:guestStar>
+    <dbpprop:guestStar xml:lang="en">Julia Louis-Dreyfus as Gloria</dbpprop:guestStar>
+    <dbpedia-owl:abstract xml:lang="en">&quot;A Hunka Hunka Burns in Love&quot; is the fourth episode of The Simpsons’ thirteenth season. The episode first aired on the Fox network on December 2, 2001. In the episode, Mr Burns falls in love with Gloria, a woman who is much younger than he is and who turns out to be Snake Jailbird&#39;s ex-girlfriend. The episode was written by John Swartzwelder, directed by Lance Kramer and dedicated to the memory of George Harrison. The episode featured, along with George Takei as a waiter and Karl Wiedergott as a delivery boy, Julia Louis-Dreyfus, who appeared as Mr Burns&#39; love interest Gloria. The episode received positive reviews from critics following the thirteenth season&#39;s release on DVD and Blu-Ray.</dbpedia-owl:abstract>
+    <dbpprop:prodCode xml:lang="en">CABF18</dbpprop:prodCode>
+    <dbpprop:blackboard xml:lang="en">&quot;Fun does not have a size.&quot;</dbpprop:blackboard>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Hunka_Hunka_Burns_in_Love" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-episode-noun-3" />
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/3/33/John_Swartzwelder_Brighter_Sharper.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/A_Hunka_Hunka_Burns_in_Love" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Simpsons_%28season_13%29">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/A_Hunka_Hunka_Burns_in_Love" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hunka_Hunka_Burns_In_Love">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Hunka_Hunka_Burns_in_Love" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/A_Hunka_Hunka_Burns_in_Love">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/A_Hunka_Hunka_Burns_in_Love" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/A_Hunka_Hunka_Burns_in_Love">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Hunka_Hunka_Burns_in_Love" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/"
+	xmlns:dbpprop="http://dbpedia.org/property/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_Is_Born">
+    <dbpedia-owl:wikiPageDisambiguates rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_Is_Born_Again">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheSimpsons(season14)Episodes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2003TelevisionEpisodes" />
+    <rdfs:label xml:lang="en">A Star Is Born Again</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;A Star Is Born Again&quot; is the 13th episode from The Simpsons&#39; fourteenth season, which first aired on March 2, 2003. The episode owes much of its plot to Notting Hill (1999). While that film is about an actress finding happiness with the owner of an independent bookstore, the Simpsons episode features Hollywood movie star Sara Sloane falling for Ned Flanders after visiting the Leftorium.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.061g3r" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2003_television_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_14)_episodes" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Brian_Kelley" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thesimpsons.com/#/recaps/season-14_episode-13" />
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Michael_Marcantel" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-03-02</dbpprop:airdate>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-03-02</dbpprop:airdate>
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Matt_Selman" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Ian_Maxtone-Graham" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Al_Jean" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Dan_Castellaneta" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Brian_Kelley" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/David_Silverman" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Mike_B._Anderson" />
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/Michael_Marcantel" />
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">304</dbpprop:episodeNo>
+    <dbpprop:couchGag xml:lang="en">The Simpsons are marionettes, who fail to reach the couch when they get caught up in each other’s strings. The camera pans up to reveal Matt Groening as the puppet master, who throws down his marionettes in frustration.</dbpprop:couchGag>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Al_Jean" />
+    <dbpprop:episodeName xml:lang="en">A Star Is Born Again</dbpprop:episodeName>
+    <dbpprop:guestStar xml:lang="en">James L. Brooks as himself</dbpprop:guestStar>
+    <dbpprop:guestStar xml:lang="en">Helen Fielding as herself</dbpprop:guestStar>
+    <dbpprop:guestStar xml:lang="en">Marisa Tomei as Sara Sloane</dbpprop:guestStar>
+    <dbpedia-owl:abstract xml:lang="en">&quot;A Star Is Born Again&quot; is the 13th episode from The Simpsons&#39; fourteenth season, which first aired on March 2, 2003. The episode owes much of its plot to Notting Hill (1999). While that film is about an actress finding happiness with the owner of an independent bookstore, the Simpsons episode features Hollywood movie star Sara Sloane falling for Ned Flanders after visiting the Leftorium. This is the only Simpsons episode in which the same person has been accredited with two different names, where James L. Brooks is credited as the Executive Producer and Executive Creative Consultant, and again as Jim Brooks as a Special Guest Voice.</dbpedia-owl:abstract>
+    <dbpprop:prodCode xml:lang="en">EABF08</dbpprop:prodCode>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Star_Is_Born_Again" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Simpsons_%28season_14%29">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_is_Born-Again">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_star_is_born_again">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sara_Sloane">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_Is_Born-Again">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_Is_Born_-_Again">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/A_Star_Is_Born_Again">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/A_Star_Is_Born_Again">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Star_Is_Born_Again" />
+  </rdf:Description>
+</rdf:RDF>

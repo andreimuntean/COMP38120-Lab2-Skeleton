@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/500_Keys">
+    <rdfs:label xml:lang="en">500 Keys</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;500 Keys&quot; is the twenty-first episode of the twenty-second season of The Simpsons. It first aired on the Fox network in the United States on May 15, 2011. It was written by John Frink and directed by Bob Anderson.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0gtvxd6" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/500_Keys" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_22)_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2011_television_episodes" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/John_Frink" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Bob_Anderson_(director)" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-05-15</dbpprop:airdate>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-05-15</dbpprop:airdate>
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">485</dbpprop:episodeNo>
+    <dbpprop:couchGag xml:lang="en">Everyone and everything is represented as words written on a white void.</dbpprop:couchGag>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Al_Jean" />
+    <dbpprop:episodeName rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">500</dbpprop:episodeName>
+    <dbpedia-owl:abstract xml:lang="en">&quot;500 Keys&quot; is the twenty-first episode of the twenty-second season of The Simpsons. It first aired on the Fox network in the United States on May 15, 2011. It was written by John Frink and directed by Bob Anderson.</dbpedia-owl:abstract>
+    <dbpprop:prodCode xml:lang="en">NABF14</dbpprop:prodCode>
+    <dbpprop:blackboard xml:lang="en">Guinea pigs should not be used as &quot;guinea pigs&quot;</dbpprop:blackboard>
+    <dbpprop:blackboard xml:lang="en">&quot;It&#39;s Kristen Schaal, Not Kristen Schall&quot;</dbpprop:blackboard>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/500_Keys" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/500_Keys" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/500_Keys">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/500_Keys" />
+  </rdf:Description>
+</rdf:RDF>

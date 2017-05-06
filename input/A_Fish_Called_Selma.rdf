@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Fish_Called_Selma">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1996TelevisionEpisodes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheSimpsons(season7)Episodes" />
+    <rdfs:label xml:lang="en">A Fish Called Selma</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;A Fish Called Selma&quot; is the nineteenth episode of The Simpsons&#39; seventh season and originally aired on March 24, 1996. The episode sees Troy McClure attempt to resurrect his acting career by marrying Selma Bouvier. Show runners Bill Oakley and Josh Weinstein were fans of Phil Hartman and wished to produce an episode which focused on his character McClure. Freelance writer Jack Barth wrote the episode, and Mark Kirkland directed it.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.0bx3bk" />
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Fish_Called_Selma" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:Zoophilia_in_culture" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1996_television_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_7)_episodes" />
+    <dbpprop:writer xml:lang="en">Jack Barth</dbpprop:writer>
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thesimpsons.com/#/recaps/season-7_episode-18" />
+    <dbpprop:imageCaption xml:lang="en">The musical Troy appears in, &quot;Stop the Planet of the Apes, I Want to Get Off&quot;. The line &quot;I hate every ape I see, from chimpan-A to chimpan-Z&quot; has become one of the most well known in the series.</dbpprop:imageCaption>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Mark_Kirkland" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-03-24</dbpprop:airdate>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-03-24</dbpprop:airdate>
+    <dbpedia-owl:thumbnail rdf:resource="http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/JeffGoldblum07TIFF.jpg/200px-JeffGoldblum07TIFF.jpg" />
+    <dbpprop:commentary xml:lang="en">Josh Weinstein</dbpprop:commentary>
+    <dbpprop:commentary xml:lang="en">Jeff Goldblum</dbpprop:commentary>
+    <dbpprop:commentary xml:lang="en">Bill Oakley</dbpprop:commentary>
+    <dbpprop:commentary rdf:resource="http://dbpedia.org/resource/David_Silverman" />
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</dbpprop:episodeNo>
+    <dbpprop:couchGag xml:lang="en">The Simpsons are five malfunctioning wind-up dolls who buzz their way to the couch.</dbpprop:couchGag>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Bill_Oakley" />
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Josh_Weinstein" />
+    <dbpprop:episodeName xml:lang="en">A Fish Called Selma</dbpprop:episodeName>
+    <dbpprop:guestStar xml:lang="en">Phil Hartman as Troy McClure and Fat Tony</dbpprop:guestStar>
+    <dbpprop:guestStar xml:lang="en">Jeff Goldblum as MacArthur Parker</dbpprop:guestStar>
+    <dbpedia-owl:abstract xml:lang="en">&quot;A Fish Called Selma&quot; is the nineteenth episode of The Simpsons&#39; seventh season and originally aired on March 24, 1996. The episode sees Troy McClure attempt to resurrect his acting career by marrying Selma Bouvier. Show runners Bill Oakley and Josh Weinstein were fans of Phil Hartman and wished to produce an episode which focused on his character McClure. Freelance writer Jack Barth wrote the episode, and Mark Kirkland directed it. Barth&#39;s script underwent a substantial rewrite in the show&#39;s writing room, including the expansion of the Planet of the Apes musical and addition of the song &quot;Dr. Zaius&quot;. The episode ran too long because of the slow pace of Troy and Selma&#39;s speech. Consequently, guest star Jeff Goldblum rerecorded his dialogue as MacArthur Parker at a faster speed. The episode received generally positive reviews, with particular praise given to Hartman and the musical. Entertainment Weekly placed the episode eighth on their list of the top 25 The Simpsons episodes.</dbpedia-owl:abstract>
+    <dbpprop:prodCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</dbpprop:prodCode>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Fish_Called_Selma" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-episode-noun-3" />
+    <foaf:depiction rdf:resource="http://upload.wikimedia.org/wikipedia/commons/5/56/JeffGoldblum07TIFF.jpg" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/A_Fish_Called_Selma" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Simpsons_%28season_7%29">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/A_Fish_Called_Selma" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Fish_Called_Selma_%28Simpsons_Episode%29">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Fish_Called_Selma" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dingamagoo">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Fish_Called_Selma" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/A_Fish_Called_Selma">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/A_Fish_Called_Selma" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/A_Fish_Called_Selma">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Fish_Called_Selma" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_Is_Torn">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheSimpsons(season16)Episodes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/2005TelevisionEpisodes" />
+    <rdfs:label xml:lang="en">A Star Is Torn</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;A Star Is Torn&quot; is the eighteenth episode of The Simpsons&#39; sixteenth season. The episode first aired on May 8, 2005. Fantasia Barrino guest stars as Clarissa Wellington.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Star_Is_Torn" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.061v9f" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:2005_television_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_16)_episodes" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Carolyn_Omine" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpprop:imageCaption xml:lang="en">Krusty with Clarissa Wellington</dbpprop:imageCaption>
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Nancy_Kruse" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2005-05-08</dbpprop:airdate>
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">353</dbpprop:episodeNo>
+    <dbpprop:couchGag rdf:datatype="http://dbpedia.org/datatype/second">1960.0</dbpprop:couchGag>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Al_Jean" />
+    <dbpprop:episodeName xml:lang="en">A Star Is Torn</dbpprop:episodeName>
+    <dbpprop:guestStar xml:lang="en">Fantasia Barrino as Clarissa Wellington</dbpprop:guestStar>
+    <dbpedia-owl:abstract xml:lang="en">&quot;A Star Is Torn&quot; is the eighteenth episode of The Simpsons&#39; sixteenth season. The episode first aired on May 8, 2005. Fantasia Barrino guest stars as Clarissa Wellington.</dbpedia-owl:abstract>
+    <dbpprop:prodCode xml:lang="en">GABF13</dbpprop:prodCode>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Star_Is_Torn" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-episode-noun-3" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/A_Star_Is_Torn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Simpsons_%28season_16%29">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/A_Star_Is_Torn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Star_is_Torn">
+    <dbpedia-owl:wikiPageRedirects rdf:resource="http://dbpedia.org/resource/A_Star_Is_Torn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/A_Star_Is_Torn">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/A_Star_Is_Torn" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/A_Star_Is_Torn">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Star_Is_Torn" />
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:dbpprop="http://dbpedia.org/property/"
+	xmlns:dbpedia-owl="http://dbpedia.org/ontology/" >
+  <rdf:Description rdf:about="http://dbpedia.org/resource/A_Milhouse_Divided">
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/TheSimpsons(season8)Episodes" />
+    <rdf:type rdf:resource="http://dbpedia.org/class/yago/1996TelevisionEpisodes" />
+    <rdfs:label xml:lang="en">A Milhouse Divided</rdfs:label>
+    <rdfs:comment xml:lang="en">&quot;A Milhouse Divided&quot; is the sixth episode of The Simpsons eighth season, first aired by the Fox network on December 1, 1996. Milhouse&#39;s parents Kirk and Luann get a divorce, causing Homer to examine his own marriage. It was directed by Steven Dean Moore and is the only episode for which Steve Tompkins has sole writing credit.</rdfs:comment>
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Milhouse_Divided" />
+    <owl:sameAs rdf:resource="http://rdf.freebase.com/ns/m.06bsv8" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:1996_television_episodes" />
+    <dcterms:subject rdf:resource="http://dbpedia.org/resource/Category:The_Simpsons_(season_8)_episodes" />
+    <dbpprop:writer rdf:resource="http://dbpedia.org/resource/Steve_Tompkins" />
+    <dbpprop:wikiPageUsesTemplate rdf:resource="http://dbpedia.org/resource/Template:Infobox_Simpsons_episode" />
+    <dbpedia-owl:wikiPageExternalLink rdf:resource="http://www.thesimpsons.com/#/recaps/season-8_episode-6" />
+    <dbpprop:director rdf:resource="http://dbpedia.org/resource/Steven_Dean_Moore" />
+    <dbpprop:season rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</dbpprop:season>
+    <dbpprop:airdate rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-12-01</dbpprop:airdate>
+    <dbpprop:commentary xml:lang="en">Matt GroeningBill OakleyJosh WeinsteinSteve TompkinsSteven Dean Moore</dbpprop:commentary>
+    <dbpprop:episodeNo rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">159</dbpprop:episodeNo>
+    <dbpprop:couchGag xml:lang="en">The family sits down, but now Bart is green. Homer fiddles with the TV and Bart changes to red. Homer then returns to the couch, and smacks Bart upside the head in order to return him to his normal color .</dbpprop:couchGag>
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Josh_Weinstein" />
+    <dbpprop:showRunner rdf:resource="http://dbpedia.org/resource/Bill_Oakley" />
+    <dbpprop:episodeName xml:lang="en">A Milhouse Divided</dbpprop:episodeName>
+    <dbpedia-owl:abstract xml:lang="en">&quot;A Milhouse Divided&quot; is the sixth episode of The Simpsons eighth season, first aired by the Fox network on December 1, 1996. Milhouse&#39;s parents Kirk and Luann get a divorce, causing Homer to examine his own marriage. It was directed by Steven Dean Moore and is the only episode for which Steve Tompkins has sole writing credit.</dbpedia-owl:abstract>
+    <dbpprop:prodCode rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</dbpprop:prodCode>
+    <dbpprop:hasPhotoCollection rdf:resource="http://www4.wiwiss.fu-berlin.de/flickrwrappr/photos/A_Milhouse_Divided" />
+    <dbpprop:wordnet_type rdf:resource="http://www.w3.org/2006/03/wn/wn20/instances/synset-episode-noun-3" />
+    <foaf:isPrimaryTopicOf rdf:resource="http://en.wikipedia.org/wiki/A_Milhouse_Divided" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Simpsons_%28season_8%29">
+    <dbpprop:title rdf:resource="http://dbpedia.org/resource/A_Milhouse_Divided" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://en.wikipedia.org/wiki/A_Milhouse_Divided">
+    <foaf:primaryTopic rdf:resource="http://dbpedia.org/resource/A_Milhouse_Divided" />
+  </rdf:Description>
+  <rdf:Description rdf:about="http://mpii.de/yago/resource/A_Milhouse_Divided">
+    <owl:sameAs rdf:resource="http://dbpedia.org/resource/A_Milhouse_Divided" />
+  </rdf:Description>
+</rdf:RDF>
